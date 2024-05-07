@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.lista-centrada {
+    text-align: center; /* Centra la lista */
+}
+
+li a {
+    text-decoration: none;
+    font-family: Arial, sans-serif; /* Cambia la fuente de los enlaces */
+    color: #333; /* Color del texto */
+    font-size: 1.1em; /* Tamaño de la fuente */
+}
+
+li a:hover {
+    background-color: #f0f0f0; /* Color de fondo al pasar el mouse */
+}
